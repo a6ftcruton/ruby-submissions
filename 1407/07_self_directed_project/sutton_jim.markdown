@@ -31,3 +31,51 @@ Anyone either moving to Denver or moving out of their current rental and needing
 
 * Any other integrations?
 -possibly d3.js or Google Charts API for data comparison?
+
+
+### Second Idea
+
+If this project gets selected, put **SELECTED** here
+
+### Pitch
+
+It's easier to make informed decisions as a community if you have community-based data.
+
+### Description
+
+This is basically a quality of life type app on a smaller scale. The idea is to gather data by neighborhood in Denver so that neighborhood groups can make more informed decisions as to their needs and can present these ideas more thoughtfully to places like city council when applying for funding, requesting increased services, etc.
+
+### Target Audience
+
+Anyone wanting to be involved in shaping the character of his or her particular neighborhood. 
+
+### Integrations
+
+* What OAuth provider makes sense for this audience?
+  Facebook
+* What Data.gov data or API will you use?
+  - http://data.denvergov.org/dataset/city-and-county-of-denver-census-neighborhood-demographics-2010
+  - (maybe) http://www.colorado-demographics.com/denver-demographics 
+* Any other integrations?
+
+
+
+### Third Idea 
+
+If this project gets selected, put **SELECTED** here
+
+### Pitch
+
+### Description
+
+5-8 sentences about the application, what it'll do, and why it should exist
+
+### Target Audience
+
+2-4 sentences about who would use this application
+
+### Integrations
+
+* What OAuth provider makes sense for this audience?
+* What Data.gov data or API will you use?
+* Any other integrations?
