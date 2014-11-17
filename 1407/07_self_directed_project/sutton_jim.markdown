@@ -1,6 +1,6 @@
 ### Self Directed Project 
 
-If this project gets selected, put **SELECTED** here
+ **SELECTED** 
 
 ### Pitch
 
@@ -33,49 +33,44 @@ Anyone either moving to Denver or moving out of their current rental and needing
 -possibly d3.js or Google Charts API for data comparison?
 
 
-### Second Idea
+-heart of the app is ability to get lots of data for an address quickly
+-ability to compare is the next step
 
-If this project gets selected, put **SELECTED** here
+###Week 1:
+* Plan to have:
+-name/branding
+-wireframes
+-basic UI/colors/layout theme (layout should account for second address display) 
+-defined basic user stories (what a user can/will do on the site)
+-user can sign in using OAuth (either Google or FB)
+-user can enter a single address
+-user can see crime data for a single address (chosen data set for crime)
+-deploy to VPS
 
-### Pitch
+* Nice to have:
+-placeholders for the second address (the 
+-address showing up on google map
+-user ability to change search radius from default ( e.g. change .5mi to .2mi )
 
-It's easier to make informed decisions as a community if you have community-based data.
-
-### Description
-
-This is basically a quality of life type app on a smaller scale. The idea is to gather data by neighborhood in Denver so that neighborhood groups can make more informed decisions as to their needs and can present these ideas more thoughtfully to places like city council when applying for funding, requesting increased services, etc.
-
-### Target Audience
-
-Anyone wanting to be involved in shaping the character of his or her particular neighborhood. 
-
-### Integrations
-
-* What OAuth provider makes sense for this audience?
-  Facebook
-* What Data.gov data or API will you use?
-  - http://data.denvergov.org/dataset/city-and-county-of-denver-census-neighborhood-demographics-2010
-  - (maybe) http://www.colorado-demographics.com/denver-demographics 
-* Any other integrations?
+* Uh oh:
+-deploy to localhost
+-allow UI to look a little shitty in service of delivering functionality
 
 
+###Week 2:
+* Plan to have:
+-user can enter second address * (if this isn't complete from week 1) 
+-user can see data for both addresses *
+-user can see default list of "close by" amenities:
+   -parks
+   -grocery stores
+   -restaurants
+   -bars / liquor stores
+   -coffee shops
 
-### Third Idea 
+###Week 3:
 
-If this project gets selected, put **SELECTED** here
+* Plan to have:
+-user can customize their search (e.g. you can choose the 3 things you want to compare and that's all that will show up)
+-use of background workers
 
-### Pitch
-
-### Description
-
-5-8 sentences about the application, what it'll do, and why it should exist
-
-### Target Audience
-
-2-4 sentences about who would use this application
-
-### Integrations
-
-* What OAuth provider makes sense for this audience?
-* What Data.gov data or API will you use?
-* Any other integrations?
